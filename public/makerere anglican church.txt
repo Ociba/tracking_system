@@ -1,0 +1,3 @@
+Url: http://localhost:8000/create-TIG-groups
+ UserName: makerere anglican church
+ Password: $2y$10$R1Sc1I5Q9DUkfXohN97bouYsEJ1ebmLxbokM3WfMbwzYqkN7KThzO
